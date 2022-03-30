@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.wrapper{
+    width: 300px;
+    text-align: center;
+    background-color: #000;
+}
+.wrapper h2{
+    padding: 10px;
+    font-weight: 500;
+    color: white;
+}
+.divstyle{
+    display: flex;
+    align-items: center;
+}
+.divstyle img{
+    width: 20px;
+    height: 20px;
+    
+}
+.select-drop{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    position: relative;
+  
+    align-items: center;
+}
+.select-drop img{
+     width: 15px;
+     height: 15px;
+     position: absolute;
+     right: 110px;
+     top: 20px;
+    
+}
+.select-drop button{
+    padding: 5px 20px 5px 20px;
+    font-size: 22px;
+      background-color: #f0c047;  
+      border-radius: 5px;
+      outline: none;
+      border: 0; 
+      color: white;
+   
+}
+.colorGrid {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
+.colorValue {
+    margin-left: 5px;
+    font-weight: bold;
+    color: white;
+}
+.colorstyle{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+}
